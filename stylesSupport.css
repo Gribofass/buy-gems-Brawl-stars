@@ -1,0 +1,28 @@
+body{
+    background-image: url(phonK.jpg);
+    background-attachment:fixed;
+}
+#logo{
+    height: 5vh;
+    width: 5%;
+}
+a{
+    text-decoration: none;
+}
+#logus{
+    color: darkorange;
+    margin-right: 5vh;
+    font-size: 50px
+}
+.menuknopka{
+    background-color:darkslategrey;
+    border-radius: 5px;
+}
+#title{
+    height: 10vh;
+    width: 100%;
+    display: block;
+    color:honeydew;
+    margin-bottom: 20vh;
+    text-align:start;
+}
